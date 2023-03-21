@@ -90,15 +90,17 @@ I am committed to continuous learning and stay updated on the latest trends and 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
+<table><tr><td valign="middle" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
  
-</td><td valign="top" width="50%">
+</td><td valign="middle" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
  
 </td></tr></table>  
+</div>
 
 <br/>  
 
@@ -108,10 +110,7 @@ I am committed to continuous learning and stay updated on the latest trends and 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jose-01010000&&style=flat-square" align="center" />
-[![](https://visitcount.itsvg.in/api?id=Jose-01010000&icon=0&color=0)](https://visitcount.itsvg.in)
-</div> 
 
+[![](https://visitcount.itsvg.in/api?id=Jose-01010000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br />
