@@ -97,7 +97,7 @@
 ## Githud About Me  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jose-01010000&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
@@ -114,6 +114,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
