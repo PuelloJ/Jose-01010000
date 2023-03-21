@@ -71,7 +71,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect With Me  
 <div align="center">
 <a href="https://github.com/Jose-01010000" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -94,7 +94,7 @@
 <br/>  
 
 
-## Githud About Me  
+## Github About Me  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact" align="left" style="width: 100%" />  
