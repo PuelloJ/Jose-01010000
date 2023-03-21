@@ -94,24 +94,24 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact" align="center" /></div>  
+## Githud About Me  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact" align="left" />  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jose-01010000&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-## Spotify Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31iz65hpvugnexsesfiu33plfppa&cover_image=true&theme=novatorem&show_offline=false&background_color=241919&interchange=true&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
+</td><td valign="top" width="50%">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31iz65hpvugnexsesfiu33plfppa&cover_image=true&theme=default&show_offline=false&background_color=241919&interchange=true&bar_color=53b14f&bar_color_cover=true" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jose-01010000&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 <br />
 
