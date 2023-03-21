@@ -60,7 +60,6 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
@@ -96,11 +95,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jose-01010000&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31iz65hpvugnexsesfiu33plfppa&cover_image=true&theme=default&show_offline=false&background_color=241919&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+
+## Spotify Listening  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31iz65hpvugnexsesfiu33plfppa&cover_image=true&theme=novatorem&show_offline=false&background_color=241919&interchange=true&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
 
 <br/>  
 
