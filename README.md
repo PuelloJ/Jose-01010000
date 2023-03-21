@@ -92,12 +92,14 @@ I am committed to continuous learning and stay updated on the latest trends and 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jose-01010000&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" align="left" style="width: 100%" />
-
+[//]: <> (<img src="https://github-readme-stats.vercel.app/api?username=Jose-01010000&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" align="left" style="width: 100%" />)
+![](https://github-readme-stats.vercel.app/api?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
+ 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="left" style="width: 100%" />
-
+[//]: <> (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="left" style="width: 100%" />)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
+ 
 </td></tr></table>  
 
 <br/>  
@@ -108,8 +110,7 @@ I am committed to continuous learning and stay updated on the latest trends and 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jose-01010000&&style=flat-square" align="center" />
-</div>  
+
+[![](https://visitcount.itsvg.in/api?id=Jose-01010000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br />
