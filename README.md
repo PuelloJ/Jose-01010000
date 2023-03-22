@@ -34,7 +34,7 @@ I am committed to continuous learning and stay updated on the latest trends and 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ChatBot Reactr](https://github.com/Jose-01010000/chatbot-react)  
+- 🔭 I’m currently working on [ChatBot React](https://github.com/Jose-01010000/chatbot-react)  
   
 
 - 🌱 I’m currently learning React, Django REST framework and CSS  
