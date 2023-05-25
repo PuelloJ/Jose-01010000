@@ -37,7 +37,7 @@ I am committed to continuous learning and stay updated on the latest trends and 
 - 🔭 I’m currently working on [ChatBot React](https://github.com/Jose-01010000/chatbot_react_2.0)  
   
 
-- 🌱 I’m currently learning React, Django REST framework and React  
+- 🌱 I’m currently learning React, Django REST framework and Flutter  
   
 
 - ⚡ Fun fact: 🤖 Copilot and chatGPT is not going to replace programmers  
