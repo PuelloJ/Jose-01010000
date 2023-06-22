@@ -20,13 +20,10 @@
 
 
 
-### Nice to see you here!  
-I am a front-end developer with extensive experience in creating websites and interactive applications. I possess skills in HTML, CSS, JavaScript, and other programming languages, and have worked on various personal projects and for clients in different sectors.
-
-I have a solid understanding of web design principles and user experience (UX), which enables me to create intuitive and attractive interfaces. I am always looking for ways to improve the functionality and efficiency of websites and find creative solutions for development challenges.
-
-I am committed to continuous learning and stay updated on the latest trends and technologies in the world of web development to offer innovative and high-quality solutions.   
-  
+### En construccioón 📦📦📦
+~~~
+Proximamente
+~~~
 
 <br/>  
 
