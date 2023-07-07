@@ -20,7 +20,7 @@
 
 
 
-### En construccioón 📦📦📦
+### En construcción 📦📦📦
 ~~~
 Proximamente
 ~~~
