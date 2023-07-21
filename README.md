@@ -1,4 +1,4 @@
- ## Hey 👋, I'm Jose Puello!  
+ ## Hey 👋, mi nombre es Jose Puello!  
   
 
 <a href="https://github.com/Jose-01010000" target="_blank">
@@ -7,7 +7,7 @@
 <a href="https://dev.to/@jose01010000" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/jose-puello" target="_blank">
+<a href="https://stackoverflow.com/users/21443411/jose-puello" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@josepuello112000" target="_blank">
