@@ -1,89 +1,96 @@
- ## Hey 👋, mi nombre es Jose Puello!  
-  
+<h1 align="left">Hey 👋, mi nombre es Jose Puello!</h1>
 
-<a href="https://github.com/Jose-01010000" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/@jose01010000" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/21443411/jose-puello" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@josepuello112000" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/SrJoSe" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### En construcción 📦📦📦
-~~~
-Proximamente
-~~~
-
-<br/>  
-
-
-## (╯°□°）╯︵ ┻━┻
-
+###
 
 <div align="center">
-<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" align="center" style="width: 100%" />
-</div>  
-
-
-
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>   
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>    
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>    
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-<table><tr><td valign="middle" width="50%">
-
-![](https://github-readme-stats.vercel.app/api?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
- 
-</td><td valign="middle" width="50%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-01010000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
- 
-</td></tr></table>  
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"  />
 </div>
 
-<br/>  
+###
 
-<!---
-## Spotify Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31iz65hpvugnexsesfiu33plfppa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" align="left" style="width: 100%" />    
+<div align="center">
+  <a href="www.linkedin.com/in/jose-puello" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/JoSePuElLo14" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="discordapp.com/users/495966838942072838" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://dribbble.com/SrJoSe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://medium.com/@josepuello112000" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21443411/jose-puello" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.twitch.tv/josepb00" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
+  </a>
+</div>
 
-<br />
--->
+###
+
+<h2 align="left">Acerca de mí</h2>
+
+###
+
+<p align="left">✨ Creando bugs desde... Comencé a programar como pasatiempo en la secundaria, ¡así que he estado creando bugs desde mis primeros días de programación!<br><br>📚 Aprendiendo actualmente... Estoy ampliando mis conocimientos en desarrollo web, adentrándome en frameworks de JavaScript. Además, estoy explorando el desarrollo de aplicaciones móviles.<br><br>🎯 Metas: Mi principal objetivo es convertirme en un desarrollador full-stack competente, centrándome en crear aplicaciones eficientes y amigables para los usuarios.<br><br>🎲 Dato curioso: Cuando no estoy programando o aprendiendo sobre tecnología, disfruto jugar videojuegos y ver anime (ᵘᆸᵘ)⭜.  <br><br>💻 Entusiasta de la tecnología: Me apasiona la tecnología y siempre me mantengo al día con las últimas tendencias y avances en el mundo tecnológico. <br><br>🕹️ Videojuegos y desarrollo: Como desarrollador, encuentro gran inspiración en los videojuegos. La creatividad, la narrativa y los sistemas complejos en los juegos a menudo generan nuevas ideas para las aplicaciones que construyo. ¡A veces incluso intento recrear mecánicas de juegos como desafíos de programación para mejorar mis habilidades!<br><br>🌱 Aprendizaje continuo: En el campo tecnológico en constante evolución, siempre hay algo nuevo por aprender. Dedico tiempo al aprendizaje continuo a través de cursos en línea, talleres y lectura de artículos relacionados con tecnología para estar a la vanguardia en mi campo.</p>
+
+###
+
+<h2 align="left">Tecnologías</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jose-01010000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jose-01010000&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jose-01010000/count.svg?"  />
+</div>
+
+###
