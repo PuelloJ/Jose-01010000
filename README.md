@@ -64,11 +64,7 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="25" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
   <img width="25" />
@@ -78,13 +74,9 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="25" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
 </div>
 
 ###
