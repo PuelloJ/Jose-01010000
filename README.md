@@ -38,13 +38,11 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde: Empecé a programar en la secundaria y he estado creando bugs desde mis primeros días de programación.<br><br>
+<p align="left">
 📚 Aprendiendo actualmente: Ampliando conocimientos en desarrollo web, explorando frameworks de JavaScript y desarrollo de aplicaciones móviles.<br><br>
 🎯 Metas: Convertirme en un desarrollador full-stack competente, enfocado en crear aplicaciones eficientes y amigables para los usuarios.<br><br>
-🎲 Dato curioso: Además de programar, disfruto jugar videojuegos y ver anime (ᵘᆸᵘ)⭜.<br><br>
+🎲 Dato curioso: Además de programar, disfruto jugar videojuegos y ver anime.<br><br>
 💻 Entusiasta de la tecnología: Me apasiona la tecnología y siempre me mantengo al día con las últimas tendencias y avances.<br><br>
-🕹️ Videojuegos y desarrollo: Encuentro inspiración en los videojuegos, generando nuevas ideas para las aplicaciones que construyo. A veces recreo mecánicas de juegos como desafíos de programación.<br><br>
-🌱 Aprendizaje continuo: Siempre hay algo nuevo por aprender en el campo tecnológico. Dedico tiempo al aprendizaje a través de cursos en línea, talleres y lectura de artículos relacionados con tecnología.
 </p>
 
 ###
