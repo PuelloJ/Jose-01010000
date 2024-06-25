@@ -68,10 +68,6 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
-  <img width="25" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
