@@ -73,8 +73,4 @@
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jose-01010000/count.svg?"  />
-</div>
-
 ###
